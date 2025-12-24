@@ -19,7 +19,7 @@ A simple and lightweight **Expense Tracker** web application built using **HTML,
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)  
+- JavaScript 
 - Browser Local Storage  
 
 ---
