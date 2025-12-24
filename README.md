@@ -1,2 +1,26 @@
-# Project3-Daily-Expense-App-Using-HTML-Css-Js-
-Expense Tracker is a simple web application built with HTML, CSS, and JavaScript that allows users to add, list, and remove expenses. The app automatically calculates the total expense and uses browser localStorage to persist data, ensuring expenses remain saved even after a page refresh.
+# Expense Tracker 💰
+
+A simple and lightweight **Expense Tracker** web application built using **HTML, CSS, and JavaScript**. This app allows users to add, view, and remove expenses while automatically calculating the total amount. All data is stored in the browser using **localStorage**, so expenses persist even after a page refresh.
+
+---
+
+## Features
+
+- Add expenses with name and amount  
+- Display a list of all expenses  
+- Remove individual expenses  
+- Automatically calculate total expenses  
+- Data persistence using browser localStorage  
+- Responsive and clean UI  
+
+---
+
+## Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)  
+- Browser Local Storage  
+
+---
+
